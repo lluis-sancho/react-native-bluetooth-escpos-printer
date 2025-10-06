@@ -1,9 +1,6 @@
 buildscript {
     repositories {
-<<<<<<< HEAD
-=======
         google()
->>>>>>> 133e11c46fed146b505e0e7b00aba69110970074
         jcenter { url "https://jcenter.bintray.com/" }
         maven {url "https://repo.spring.io/plugins-release/"}
         mavenCentral()
