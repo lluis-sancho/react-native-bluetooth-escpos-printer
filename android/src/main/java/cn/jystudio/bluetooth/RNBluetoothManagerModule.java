@@ -238,7 +238,7 @@ public class RNBluetoothManagerModule extends ReactContextBaseJavaModule
             promise.reject("BT NOT ENABLED");
         }
 
-	}
+    }
 
     @ReactMethod
     public void unpaire(String address,final Promise promise){
